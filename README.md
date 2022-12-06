@@ -1,4 +1,4 @@
-# simple-_ToDoList
+# simple_ToDoList
 > This small and simple project is created by bootstrap, JavaScript, html, CSS
    
  ## features
